@@ -49,5 +49,5 @@ A nice feature of EPGS is the ability to create color plot of an input recording
 
 # Contributors
 * Quang Dung Dinh
-* Truong Son Hy
-* Phuong Dao
+* [Truong Son Hy](https://github.com/HyTruongSon)
+* [Phuong Dao](https://github.com/phuongdd)
